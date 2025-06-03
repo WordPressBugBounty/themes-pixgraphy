@@ -1,10 +1,10 @@
 == Pixgraphy ==
 Contributors: themefreesia
 Tags: threaded-comments, right-sidebar, four-columns, custom-colors, custom-background, custom-header, custom-menu, editor-style, sticky-post, theme-options, translation-ready, post-formats, custom-logo, e-commerce, photography, portfolio
-Requires at least: 6.3
-Tested up to: 6.5
+Requires at least: 6.7
+Tested up to: 6.8.1
 Requires PHP: 5.6
-Stable tag: 1.4.0
+Stable tag: 1.4.1
 License: GNU General Public License version 3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -121,6 +121,9 @@ All the theme files and other un-specified scripts are licensed under GNU Genera
 =================================================================================
 
 == CHANGE LOG ==
+=1.4.1 =
+	- Update - Tested with latest version of WordPress
+
 =1.4.0 =
 	- Update - Font icon updated
 
